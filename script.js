@@ -20,4 +20,4 @@ function updateClock() {
 }
 
 
-setInterval(updateClock, 1);
+setInterval(updateClock, 1000);
